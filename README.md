@@ -23,16 +23,6 @@ The dataset contains historical news headlines with labels:
    git clone https://github.com/your-username/stock-sentiment-analysis.git
    cd stock-sentiment-analysis
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download NLTK stopwords:
-   ```python
-   import nltk
-   nltk.download('stopwords')
-   ```
-
 
 ## 📊 Model Performance
 | Model                 | Accuracy |
